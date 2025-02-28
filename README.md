@@ -2,14 +2,14 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical" />
 </div>
 
 ###
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <img width="12" />
