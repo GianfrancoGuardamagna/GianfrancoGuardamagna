@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical" />
 </div>
