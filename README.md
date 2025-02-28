@@ -30,7 +30,6 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
