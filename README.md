@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gianfranco and I'm a Software Developer, from Argentina and currently in Spain</h2>
+<h2 align="left">Hi 👋! My name is Gianfranco and I'm a Software Developer, from Argentina</h2>
 
 <div align="center">
     <div align="center">
@@ -30,5 +30,5 @@
 </div>
 
 <div align="center">
-    <h3 style="width: 65%; height: auto;">Soy una persona inquieta que está buscando manera de solucionar problemas y mejorar constantemente. Desde que decidí dedicarme al mundo de la tecnología he pasado por distintos contextos y lenguajes. Comencé por la programación web y la programación orientada a objetos en JavaScript, también exploré conceptos básicos de la POO en Python realizando algunos proyecto básicos. También aprendí a trabajar en contexto de Back-end con NodeJs, y a trabajar bases de datos con MySQL y MongoDB. Cuando comencé a estudiar Ciencias de Datos, me adentré en el mundo de R y profundicé en ese ámbito con Python. Por último, descubrí también que me gusta crear proyectos con Arduino, así que también pude programar algunas placas con C/C++.</h3>
+    <h3 style="width: 65%; height: auto;">I am a passionate software developer with a focus on JavaScript and TypeScript, primarily using Next.js for front-end development and Node.js with Express for back-end. I work with MySQL for database management, and I also have experience with Python, Linux, and C. I have developed websites, e-commerce platforms, and have experience managing servers. Currently, I am studying at 42 Málaga, where I am focusing on cybersecurity to further expand my skills and expertise in this field.</h3>
 </div>
