@@ -1,53 +1,28 @@
-<h2 align="left">Hi 👋! My name is Gianfranco and I'm a Software Developer, from Argentina and currently in Spain</h2>
-    <div align="center" style="display: flex; align-items: center; justify-content: space-around;">
-        <div align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-                alt="javascript logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"
-                alt="typescript logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"
-                alt="react logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
-                alt="nextjs logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"
-                alt="nodejs logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"
-                alt="express logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
-                alt="python logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"
-                alt="linux logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-            <br><br>
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-                height="35" alt="linkedin logo" />
-        </div>
-        <div align="right">
-            <img height="150"
-                src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd1cHM4dnZvNDkyMmN4azJ4bndzdGsycnIxb280cTlvaGplZjRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiZ6kV683kPaU/giphy.gif" />
-        </div>
-    </div>
-    <div align="center" style="display: flex; justify-content: space-around; gap: 20px; width: 100%; height: auto;">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical" />
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical" />
-    </div>
-    <div align="center" style="width: 100%; height: auto;">
-        <h3 style="width: 65%; height: auto;">Soy una persona inquieta que está buscando manera de solucionar problemas
-            y mejorar constantemente. Desde
-            que decidí dedicarme al mundo de la tecnología he pasado por distintos contextos y lenguajes. Comencé por la
-            programación web y la programación orientada a objetos en JavaScript, también exploré conceptos básicos de
-            la POO en Python realizando algunos proyecto básicos. También aprendí a trabajar en contexto de Back-end con
-            NodeJs, y a trabajar bases de datos con MySQL y MongoDB. Cuando comencé a estudiar Ciencias de Datos, me
-            adentré en el mundo de R y profundicé en ese ámbito con Python. Por último, descubrí también que me gusta
-            crear proyectos con Arduino, así que también pude programar algunas placas con C/C++.</h3>
-    </div>
+# Hi 👋! My name is Gianfranco and I'm a Software Developer, from Argentina and currently in Spain
+
+## Technologies & Tools
+
+<div align="center">
+    ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+    ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+    ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+    ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+    ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+    ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+    ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+    ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+    ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+</div>
+
+<br>
+
+[![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/gianfrancoguardamagna/)
+
+## Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical)
+
+## About Me
+
+Soy una persona inquieta que está buscando manera de solucionar problemas y mejorar constantemente. Desde que decidí dedicarme al mundo de la tecnología he pasado por distintos contextos y lenguajes. Comencé por la programación web y la programación orientada a objetos en JavaScript, también exploré conceptos básicos de la POO en Python realizando algunos proyectos básicos. También aprendí a trabajar en contexto de Back-end con NodeJs, y a trabajar bases de datos con MySQL y MongoDB. Cuando comencé a estudiar Ciencias de Datos, me adentré en el mundo de R y profundicé en ese ámbito con Python. Por último, descubrí también que me gusta crear proyectos con Arduino, así que también pude programar algunas placas con C/C++.
