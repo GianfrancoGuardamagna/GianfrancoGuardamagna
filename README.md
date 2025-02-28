@@ -33,3 +33,15 @@
 </div>
 
 ###
+
+## 🌟 GitHub Stats
+
+![Gianfranco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gianfrancoguardamagna&show_icons=true&theme=radical)
+
+## 🔥 Top Lenguajes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrancoguardamagna&layout=compact&theme=radical)
+
+## 🚀 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gianfrancoguardamagna&theme=radical)
